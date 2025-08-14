@@ -1,0 +1,4 @@
+0
+SimpleGoal|Pray|Say a simple prayer|50|False
+EternalGoal|Scripture Study|Study the Scriptures daily|50
+ChecklistGoal|Temple Visits|Visit the temple and perform ordinances|50|300|3|0
